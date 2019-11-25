@@ -1,8 +1,8 @@
 ## Script para determinar los genes dianas de un factor de transcripción
 ## a partir del fichero narrowPeak generado por MaCS2.
 
-## Autor: Francisco J. Romero-Campero - fran@us.es
-## Fecha: Octubre 2019
+## Autor: Sara Cartan Moya and Jorge Dominguez Barragan - saracartanmoya@gmail.com or jodombar@gmail.com
+## Date: November 2019
 
 ## Instalar chipseeker y paquete de anotación de Arabidopsis thaliana. arg será una lista de
 ## caracteres.
